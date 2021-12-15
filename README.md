@@ -1,0 +1,2 @@
+# aidi
+Aidistore
